@@ -4,11 +4,6 @@
 
 # **Módulo 2** | SQL: Trabalhando com Tabelas
 
-Professora [Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-
-Data: 11 de maio de 2023.
-
 ---
 
 ## Atividades
