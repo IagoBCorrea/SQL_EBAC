@@ -4,11 +4,6 @@
 
 # **Módulo 4** | SQL: Filtrando & Seleção Condicional
 
-Professora [Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-
-Data: 12 de maio de 2023.
-
 ---
 
 ## Atividades
@@ -27,7 +22,6 @@ WITH SERDEPROPERTIES (
 	'escapeChar' = '\\'
 )
 STORED AS TEXTFILE
-LOCATION 's3://bucket-transacoes/'
 ```
 
 ### **2. Selecionando dados**
