@@ -4,11 +4,6 @@
 
 # **Módulo 6** | SQL: Trabalhando com Múltiplas Tabelas
 
-Professora [Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-
-Data: 15 de maio de 2023.
-
 ---
 
 ## Atividades
@@ -27,7 +22,6 @@ WITH SERDEPROPERTIES (
 	'serialization.format' = ',',
 	'field.delim' = ','
 )
-LOCATION 's3://modulo6-robertohatiro-ebac/cliente/'
 TBLPROPERTIES ('has_encrypted_data' = 'false');
 ```
 
@@ -43,7 +37,6 @@ WITH SERDEPROPERTIES (
 	'serialization.format' = ',',
 	'field.delim' = ','
 )
-LOCATION 's3://modulo6-robertohatiro-ebac/transacoes/'
 TBLPROPERTIES ('has_encrypted_data' = 'false');
 ```
 
