@@ -66,7 +66,6 @@ WITH SERDEPROPERTIES (
 	'escapeChar' = '\\'
 )
 STORED AS TEXTFILE
-LOCATION 's3://bucket-robertohatiro-partitioned/'
 ```
 
 ```sql
