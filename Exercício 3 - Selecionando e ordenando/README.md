@@ -4,11 +4,6 @@
 
 # **Módulo 3** | SQL: Selecionando & Ordenando
 
-Professora [Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-
-Data: 11 de maio de 2023.
-
 ---
 
 ## Atividades
@@ -29,7 +24,6 @@ WITH SERDEPROPERTIES (
 	'escapeChar' = '\\'
 )
 STORED AS TEXTFILE
-LOCATION 's3://bucket-robertohatiro-transacoes/'
 ```
 
 #### [**2.1. Query 1**](https://raw.githubusercontent.com/rhatiro/exercicios-SQL-para-Analise-de-Dados-EBAC/main/Mo%CC%81dulo%203%20-%20Selecionando%20%26%20Ordenando/query1.csv)
