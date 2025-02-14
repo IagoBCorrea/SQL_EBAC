@@ -4,11 +4,6 @@
 
 # **Módulo 5** | SQL: Agregações
 
-Professora [Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)<br>
-Aluno [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-
-Data: 12 de maio de 2023.
-
 ---
 
 ## Atividades
@@ -37,7 +32,6 @@ WITH SERDEPROPERTIES (
 	'serialization.format' = ',',
 	'field.delim' = ','
 )
-LOCATION 's3://heart-attack-robertohatiro-ebac/'
 TBLPROPERTIES ('has_encrypted_data' = 'false');
 ```
 
