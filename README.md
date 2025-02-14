@@ -1,2 +1,2 @@
 # SQL_EBAC
-Curso sobre SQL pela EBAC focado em análise de dados.
+Exercícios referentes ao curso de SQL pela EBAC focado em análise de dados.
